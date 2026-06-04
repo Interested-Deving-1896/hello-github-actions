@@ -1,48 +1,75 @@
-# Hello GitHub Actions
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# hello-github-actions
 
-_Create and run a GitHub Actions workflow._
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/hello-github-actions)
 
-## Welcome
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-Automation is key for repetitive tasks like testing, scanning, review, and deployment processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to streamline that workflow.
+## Architecture
 
-- **Who is this for**: Developers, DevOps engineers, Security engineers
-- **What you'll learn**: How to create GitHub Actions workflows, how to run them, and how to use them to automate tasks.
-- **What you'll build**: An Actions workflow that will comment on a pull request when it is created.
-- **Prerequisites**: [Introduction to GitHub](https://github.com/skills/introduction-to-github)
-- **How long**: This exercise can be finished in less than 30min.
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-In this exercise, you will:
+## Install
 
-1. Create a workflow file
-1. Add a job
-1. Add a run step
-1. See the workflow run
-1. Merge your pull request
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-### How to start this exercise
+```bash
+git clone https://github.com/Interested-Deving-1896/hello-github-actions.git
+cd hello-github-actions
+```
 
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
+## Usage
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=hello-github-actions&owner=%40me&name=skills-hello-github-actions&description=Exercise:+Create+and+run+a+GitHub+Actions+Workflow&visibility=public)
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
 
-<details>
-<summary>Having trouble? 🤷</summary><br/>
+## Configuration
 
-When copying the exercise, we recommend the following settings:
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
 
-- For owner, choose your personal account or an organization to host the repository.
+## CI
 
-- We recommend creating a public repository, since private repositories will use Actions minutes.
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
 
-If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
+## Mirror chain
 
-- Check to see if a job is running. Sometimes it simply takes a bit longer.
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/hello-github-actions`](https://github.com/Interested-Deving-1896/hello-github-actions) and mirrored through:
 
-- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
+```
+Interested-Deving-1896/hello-github-actions  ──►  OpenOS-Project-OSP/hello-github-actions  ──►  OpenOS-Project-Ecosystem-OOC/hello-github-actions
+```
 
-</details>
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
 
----
+## Contributors
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[MIT](https://github.com/Interested-Deving-1896/hello-github-actions/blob/main/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
